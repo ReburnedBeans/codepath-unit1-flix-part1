@@ -1,0 +1,6 @@
+framework module Pods_Flix_Reburn_V2Tests {
+  umbrella header "Pods-Flix_Reburn_V2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
